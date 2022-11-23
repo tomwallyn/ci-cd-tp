@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("CICD rocks!git");
+        System.out.println("CI/CD rocks!git");
     }
 }
